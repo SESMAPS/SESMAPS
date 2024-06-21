@@ -1,11 +1,17 @@
 <div align="center">
 <h1 align="center">Bienvenidos al repositorio de <a href="https://consultoriases.com">Consultoria SES</a> 👋</h1>
 </div>
-<img src="/home/david/DescargasFirefox/SESMAPS/img/banner.png">
+<img src="img/banner.png">
 
 [![YouTube](https://img.shields.io/youtube/channel/subscribers/UCjCe0F7HBLkFW8pCa5F4xFA?style=social)](https://www.youtube.com/@consultoriases)
 [![Telegram](https://badgen.net/badge/icon/Telegram?icon=telegram&label)](t.me/sesmaps)
 ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/ses_maps)
+
+> [!NOTE]
+> Pongase en contacto con nosotros y programemos la videoconferencia
+> **Celular:** +57 305 439 2506<br>
+> **Correo:** [ses@workmail.com](mailto:ses@workmail.com)<br>
+> **Página Web:** [consultoriases.com](https://consultoriases.com)
 
 Consultoria SES tiene el bjetivo de llevar la consultoría ambiental y la geoanalítica a partir de sistemas de información geográfica al siguiente nivel innovando así en la forma como se estudian y desarrollan diferentes planes, programas y proyectos en lo que a lo ambiental se refiere.
 
