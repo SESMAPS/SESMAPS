@@ -8,7 +8,7 @@
 ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/ses_maps)
 
 > [!NOTE]
-> Pongase en contacto con nosotros y programemos la videoconferencia
+> Pongase en contacto con nosotros y programemos la videoconferencia<br>
 > **Celular:** +57 305 439 2506<br>
 > **Correo:** [ses@workmail.com](mailto:ses@workmail.com)<br>
 > **Página Web:** [consultoriases.com](https://consultoriases.com)
@@ -21,11 +21,12 @@ En SES sabemos de la necesidad mutua de las organizaciones por los servicios esp
 ## Soluciones para Catastro
 
 Diseñamos productos y servicios especializados que simplifican el reconocimiento predial, optimizan los procesos de conservación catastral y facilitan la difusión de información. Nuestra prioridad es garantizar la interoperabilidad de los datos, asegurando una integración fluida con diversas entidades. Con enfoque en la eficiencia y precisión, proporcionamos soluciones tecnológicas que potencian la gestión integral de la información catastral.
->1. Visores web geográficos
->2. Imágenes 360 panorámicas
+[Catastro](https://consultoriases.com/catastro/)
+>1. Visores web geográficos 
+>2. Imágenes 360 panorámicas [SESMAPS](https://sesmaps.xyz)
 >3. Imágenes drone oblícuas
->4. Ortofotos
->5. Inteligencia Artificial para reconocimiento predial
+>4. Ortofotos 
+>5. Inteligencia Artificial para reconocimiento predial [TipologIA](https://github.com/SESMAPS/Tipologia)
 
 ---
 
@@ -39,7 +40,7 @@ Al utilizar nuestra solución, los acueductos pueden mejorar la eficiencia opera
 ## Soluciones para difusión en la Gestión de Riesgo de Desastres
 
 InfoRiesgo es la solución que presenta SES para sus clientes que trabajan directamente con la gestión de riesgo de desastres, en este caso y gracias a nuestras herramientas para el levantamiento de datos en campo, y a nuestra plataforma de Geovisor y Tablero de control, les permite agilizar procesos de consulta, difusión, planificación y trazabilidad en lo relacionado con la Gestión de Riesgo de Desastres 
-
+[Inforiesgo](https://consultoriases.com/inforiesgo/)
 ---
 
 
