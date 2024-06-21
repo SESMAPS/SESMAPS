@@ -22,8 +22,8 @@ En SES sabemos de la necesidad mutua de las organizaciones por los servicios esp
 
 Diseñamos productos y servicios especializados que simplifican el reconocimiento predial, optimizan los procesos de conservación catastral y facilitan la difusión de información. Nuestra prioridad es garantizar la interoperabilidad de los datos, asegurando una integración fluida con diversas entidades. Con enfoque en la eficiencia y precisión, proporcionamos soluciones tecnológicas que potencian la gestión integral de la información catastral.
 [Catastro](https://consultoriases.com/catastro/)
->1. Visores web geográficos 
->2. Imágenes 360 panorámicas [SESMAPS](https://sesmaps.xyz)
+>1. Visores web geográficos [IDE - SESMAPS](https://sesmaps.xyz)
+>2. Imágenes 360 panorámicas 
 >3. Imágenes drone oblícuas
 >4. Ortofotos 
 >5. Inteligencia Artificial para reconocimiento predial [TipologIA](https://github.com/SESMAPS/Tipologia)
