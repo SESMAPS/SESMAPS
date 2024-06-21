@@ -39,8 +39,8 @@ Al utilizar nuestra solución, los acueductos pueden mejorar la eficiencia opera
 
 ## Soluciones para difusión en la Gestión de Riesgo de Desastres
 
-InfoRiesgo es la solución que presenta SES para sus clientes que trabajan directamente con la gestión de riesgo de desastres, en este caso y gracias a nuestras herramientas para el levantamiento de datos en campo, y a nuestra plataforma de Geovisor y Tablero de control, les permite agilizar procesos de consulta, difusión, planificación y trazabilidad en lo relacionado con la Gestión de Riesgo de Desastres 
-[Inforiesgo](https://consultoriases.com/inforiesgo/)
+InfoRiesgo es la solución que presenta SES para sus clientes que trabajan directamente con la gestión de riesgo de desastres, en este caso y gracias a nuestras herramientas para el levantamiento de datos en campo, y a nuestra plataforma de Geovisor y Tablero de control, les permite agilizar procesos de consulta, difusión, planificación y trazabilidad en lo relacionado con la Gestión de Riesgo de Desastres [Inforiesgo](https://consultoriases.com/inforiesgo/)
+
 ---
 
 
