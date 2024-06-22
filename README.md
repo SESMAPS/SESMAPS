@@ -13,9 +13,10 @@
 > **Correo:** [ses@workmail.com](mailto:ses@workmail.com)<br>
 > **Página Web:** [consultoriases.com](https://consultoriases.com)
 
-Consultoria SES tiene el bjetivo de llevar la consultoría ambiental y la geoanalítica a partir de sistemas de información geográfica al siguiente nivel innovando así en la forma como se estudian y desarrollan diferentes planes, programas y proyectos en lo que a lo ambiental se refiere.
+Consultoria SES tiene el objetivo de llevar la consultoría ambiental y la geoanalítica a partir de sistemas de información geográfica al siguiente nivel innovando así en la forma como se estudian y desarrollan diferentes planes, programas y proyectos en lo que a lo ambiental se refiere.
 
 En SES sabemos de la necesidad mutua de las organizaciones por los servicios especializados de consultoría ambiental y de las consultoras por apoyar a las organizaciones para alcanzar el éxito y la sostenibilidad corporativas, pero además somos conscientes de las dificultades que implica para muchas organizaciones estar a constantemente actualizados en los temas ambientales.
+Nuestra más reciente innovación es la primer inteligencia artifical para Catastro en Colombia.
 
 ---
 ## Soluciones para Catastro
